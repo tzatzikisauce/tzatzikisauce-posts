@@ -2,7 +2,10 @@
   "posts": [
     { "id": 1, "title": "Post 1",  "body": "asda"},
     { "id": 2, "title": "Post 2", "body": "sfdsdf" },
-    { "id": 3, "title": "Post 3", "body": "sdfsdfs" }
+    { "id": 3, "title": "Post 3", "body": "sdfsdfs" },
+    { "id": 4, "title": "Post 4",  "body": "asda"},
+    { "id": 5, "title": "Post 5", "body": "sfdsdf" },
+    { "id": 6, "title": "Post 6", "body": "sdfsdfs" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
