@@ -12,8 +12,8 @@
     {"user":"mike@gmail.com", "id": 1, "body": "Ok, but what about cats? I just want to hug all of them, but I can't 'cause thats crazy. I can't hug every cat", "postId": 1},
     {"user":"bob", "id": 11, "body": "Are you ok?", "postId": 1},
     {"user":"bob", "id": 1, "body": "Can we talk about banana chips though? I eat them on the daily.", "postId": 3},
-    {"user":"mike@gmail.com", "id": 1, "body": "#LadyMormontForTheThrone", "postId": 3},
-    {"user":"bob", "id": 1, "body": "#SerJorahForTheThrone", "postId": 3},
+    {"user":"mike@gmail.com", "id": 1, "body": "#LadyMormontForTheThrone", "postId": 6},
+    {"user":"bob", "id": 1, "body": "#SerJorahForTheThrone", "postId": 6},
     {"user":"mike@gmail.com", "id": 2, "body": "Ok but Giraffes though? With necks like those? Wow.", "postId": 7}
   ],
   "profile": {
