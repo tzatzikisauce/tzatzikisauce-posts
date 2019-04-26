@@ -10,7 +10,9 @@
   ],
   "comments": [
     {"user":"mike@gmail.com", "id": 1, "body": "some comment", "postId": 1 },
-    {"user":"bob", "id": 2, "body": "some comment", "postId": 1 }
+    {"user":"bob", "id": 2, "body": "some comment", "postId": 1 },
+    {"user":"mike@gmail.com", "id": 3, "body": "some comment", "postId": 2 },
+    {"user":"mike@gmail.com", "id": 4, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
