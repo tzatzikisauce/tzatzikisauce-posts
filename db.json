@@ -14,7 +14,8 @@
     {"user":"bob", "id": 1, "body": "Can we talk about banana chips though? I eat them on the daily.", "postId": 3},
     {"user":"mike@gmail.com", "id": 1, "body": "#LadyMormontForTheThrone", "postId": 6},
     {"user":"bob", "id": 1, "body": "#SerJorahForTheThrone", "postId": 6},
-    {"user":"mike@gmail.com", "id": 2, "body": "Ok but Giraffes though? With necks like those? Wow.", "postId": 7}
+    {"user":"mike@gmail.com", "id": 2, "body": "Ok but Giraffes though? With necks like those? Wow.", "postId": 7},
+    {"user":"mike@gmail.com", "id": 1, "body": "word", "postId": 5}
   ],
   "profile": {
     "name": "typicode"
