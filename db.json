@@ -1,12 +1,12 @@
 {
   "posts": [
-    {"user":"bob", "id": 1, "title": "Post 1",  "body": "asda"},
-    {"user":"bob", "id": 2, "title": "Post 2", "body": "sfdsdf" },
-    {"user":"mike@gmail.com", "id": 3, "title": "Post 3", "body": "sdfsdfs" },
-    {"user":"bob", "id": 4, "title": "Post 4",  "body": "asda"},
-    {"user":"mike@gmail.com", "id": 5, "title": "Post 5", "body": "sfdsdf" },
-    {"user":"bob", "id": 6, "title": "Post 6", "body": "sdfsdfs" },
-    {"user":"bob", "id": 7, "title": "Post 7", "body": "sdfsdfggggggs" }
+    {"user":"bob", "id": 1, "title": "Opinion: Dogs are the best??",  "body": "I'm just saying, they are pretty great. I mean, they are just so fluffy??"},
+    {"user":"bob", "id": 2, "title": "Is it possible to live a normal life and not ever tell a lie?", "body": "No." },
+    {"user":"mike@gmail.com", "id": 3, "title": "I don't like Plantains.", "body": "Seriously, why do people eat these things? They are just bland bananas." },
+    {"user":"bob", "id": 4, "title": "Does fate exist? If so, do we have free will?",  "body": "I think we have free will because I have the free will to type this right now. No one is making me. Ok, well my professor is to an extent because I want to get a good grade, so I am typing out this really long post. Shoot, does this disprove my theory?"},
+    {"user":"mike@gmail.com", "id": 5, "title": "What benefits does art provide society? Does art hurt society in any way?", "body": "The benefits are hard to quantify, but I think it’s easy to explain. Music, visual art, poetry… they all have one thing in common; They make your brain work and process, and usually that processing is an enjoyable sensation. When you hear a song you like or see a painting you enjoy, it’s stimulating something deeper. For me, it almost bypasses the idea of “language” and taps right into parts of the brain that house creativity. Prehistoric people were decorating items before recorded language. When it came time for primitive societies to participate in rituals and remembrance, art has been a part of that. If it wasn’t the Sphinx would just need to be a big square building. Art doesn’t hurt society. ARTISTS can hurt society (usually in their relations to others), and people’s REACTIONS to art can hurt society, but the art itself is not to be blamed. ~Richard Springer on Quora" },
+    {"user":"bob", "id": 6, "title": "I don't like Game of Thrones", "body": "Just kidding, who would say such a thing??" },
+    {"user":"bob", "id": 7, "title": "Best non-domesticated animal?", "body": "Otters. Need I say more?" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
