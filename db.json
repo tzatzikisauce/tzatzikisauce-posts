@@ -5,7 +5,8 @@
     {"user":"mike@gmail.com", "id": 3, "title": "Post 3", "body": "sdfsdfs" },
     {"user":"bob", "id": 4, "title": "Post 4",  "body": "asda"},
     {"user":"mike@gmail.com", "id": 5, "title": "Post 5", "body": "sfdsdf" },
-    {"user":"bob", "id": 6, "title": "Post 6", "body": "sdfsdfs" }
+    {"user":"bob", "id": 6, "title": "Post 6", "body": "sdfsdfs" },
+    {"user":"bob", "id": 7, "title": "Post 7", "body": "sdfsdfggggggs" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
