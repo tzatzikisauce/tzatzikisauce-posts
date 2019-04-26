@@ -9,10 +9,10 @@
     {"user":"bob", "id": 7, "title": "Best non-domesticated animal?", "body": "Otters. Need I say more?" }
   ],
   "comments": [
-    {"user":"mike@gmail.com", "id": 1, "body": "some comment", "postId": 1, "level": 1},
-    {"user":"bob", "id": 1, "body": "some comment", "postId": 1, "level": 2 },
-    {"user":"mike@gmail.com", "id": 3, "body": "some comment", "postId": 2, "level": 1 },
-    {"user":"mike@gmail.com", "id": 4, "body": "some comment", "postId": 1, "level": 1 }
+    {"user":"mike@gmail.com", "id": 1, "body": "some comment", "postId": 1},
+    {"user":"bob", "id": 11, "body": "some comment", "postId": 1},
+    {"user":"bob", "id": 1, "body": "some comment", "postId": 2},
+    {"user":"mike@gmail.com", "id": 2, "body": "some comment", "postId": 1}
   ],
   "profile": {
     "name": "typicode"
