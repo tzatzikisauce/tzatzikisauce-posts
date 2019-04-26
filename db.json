@@ -2,9 +2,9 @@
   "posts": [
     {"user":"bob", "id": 1, "title": "Post 1",  "body": "asda"},
     {"user":"bob", "id": 2, "title": "Post 2", "body": "sfdsdf" },
-    {"user":"bob", "id": 3, "title": "Post 3", "body": "sdfsdfs" },
+    {"user":"mike@gmail.com", "id": 3, "title": "Post 3", "body": "sdfsdfs" },
     {"user":"bob", "id": 4, "title": "Post 4",  "body": "asda"},
-    {"user":"bob", "id": 5, "title": "Post 5", "body": "sfdsdf" },
+    {"user":"mike@gmail.com", "id": 5, "title": "Post 5", "body": "sfdsdf" },
     {"user":"bob", "id": 6, "title": "Post 6", "body": "sdfsdfs" }
   ],
   "comments": [
